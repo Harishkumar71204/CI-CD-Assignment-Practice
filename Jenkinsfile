@@ -66,7 +66,7 @@ pipeline {
                 ]) {
 
                     bat '''
-                    git push https://Harishkumar71204:%GIT_TOKEN%@github.com/Harishkumar71204/CI-CD-Assignment-Practice.git HEAD:gh-pages --force
+                    git push https://Harishkumar71204:%GIT_TOKEN%@github.com/Harishkumar71204/CI-CD-Assignment-Practice.git HEAD:refs/heads/gh-pages --force
                     '''
 
                 }
