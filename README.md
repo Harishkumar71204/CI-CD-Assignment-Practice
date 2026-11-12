@@ -1,1 +1,0 @@
-# CI-CD-Assignment-Practice
